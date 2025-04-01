@@ -5,7 +5,7 @@ This Java-based application provides a graphical and programmatic interface to a
 
 ---
 
-## 💡 Features
+Features
 
 - Calculate equations between binary words using custom finite state machines
 - Graphical user interface with:
@@ -22,7 +22,7 @@ This Java-based application provides a graphical and programmatic interface to a
 
 ---
 
-## 🧩 Main Components
+## Main Components
 
 - **Main.java** — CLI-based interface (legacy, replaced by GUI)
 - **GUI.java** — Swing-based interface to interact with all functionalities
@@ -36,7 +36,7 @@ This Java-based application provides a graphical and programmatic interface to a
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Open the project in your preferred Java IDE (e.g., IntelliJ, Eclipse).
 2. Compile the files.
@@ -51,7 +51,7 @@ java GUI
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - Java JDK 8 or newer
 - Swing (part of standard JDK)
@@ -59,7 +59,7 @@ java GUI
 
 ---
 
-## 📝 Example Use Cases
+## Example Use Cases
 
 - Generate all binary strings of a given length.
 - Determine if two words are mathematically "equal" based on state transitions.
@@ -68,15 +68,14 @@ java GUI
 
 ---
 
-## 📄 License
+## License
 
 This project is provided for academic and research use only.
 
 ---
 
-## 👤 Author
-
+## Author
 **Nico Helle**  
-Media Informatics, Eberhard Karls University of Tübingen
+
 
 ---
